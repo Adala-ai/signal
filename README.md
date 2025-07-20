@@ -17,7 +17,7 @@ through iterative learning. This learning process is influenced by their operati
 reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills
 in what we refer to as a "runtime", synonymous with LLM.
 
-![Training Agent Skill](./docs/src/img/training-agents-skill.png "Training Agent Skill")
+![Training Agent Skill](./Docs/img/training-agents-skill.png "Training Agent Skill")
 
 <!-- Offered as an HTTP server, users can interact with Adala via command line or RESTful API, and directly integrate its features in Python Notebooks or scripts. The self-learning mechanism leverages Large Language Models (LLMs) from providers like OpenAI and VertexAI. -->
 
