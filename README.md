@@ -389,8 +389,8 @@ adala help <command>
 ## 🗺 Roadmap
 
 - [x] Low-level skill management (i.e. agent.get_skill("name")) [COMPLETE @niklub]
-- [o] Deploy main agent token with thirdy-party [APE STORE](https://ape.store)
-- [o] Create community group [TELEGRAM](https://t.me)
+- [ ] Deploy main agent token with thirdy-party [APE STORE](https://ape.store)
+- [x] Create community group [TELEGRAM](https://t.me/+Z12ePE0Xj8Q3Nzdl)
 - [ ] Make every notebook example to run in Google Collab and add a badge into README
 - [ ] Extend environment with one more example
 - [ ] Multi-task learning (learn multiple skills at once)
