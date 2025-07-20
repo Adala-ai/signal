@@ -74,14 +74,14 @@ pip install adala
 Adala frequently releases updates. In order to ensure that you are using the most up-to-date version, it is recommended that you install it from GitHub:
 
 ```sh
-pip install git+https://github.com/HumanSignal/Adala.git
+pip install git+https://github.com/Adala/signal.git
 ```
 
 Developer installation:
 
 ```sh
-git clone https://github.com/HumanSignal/Adala.git
-cd Adala/
+git clone https://github.com/Adala/signal.git
+cd signal/
 poetry install
 ```
 
