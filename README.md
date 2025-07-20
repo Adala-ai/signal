@@ -4,9 +4,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Adala/signal)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/docs/src/img/logo-dark-mode.png" width="275" >
-  <source media="(prefers-color-scheme: light)" srcset="/docs/src/img/logo.png" width="275" >
-  <img alt="Shows Adala logo in light mode and dark mode." src="/docs/src/img/logo.png" width="275" >
+  <source media="(prefers-color-scheme: dark)" srcset="/Docs/logo-dark-mode.png" width="275" >
+  <source media="(prefers-color-scheme: light)" srcset="/Docs/src/img/logo.png" width="275" >
+  <img alt="Shows Adala logo in light mode and dark mode." src="/Docs/src/img/logo.png" width="275" >
 </picture>
 
 Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework.
