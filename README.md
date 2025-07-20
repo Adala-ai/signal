@@ -411,5 +411,5 @@ versatile and impactful for users across the globe.
 
 ## 💬 Support
 
-Do you need help or are you looking to engage with community? Check out [Twitter](https://x.com)
+Do you need help or are you looking to engage with community? Check out [Twitter](https://x.com/adala_signal)
 Whether you have questions, need clarification, or simply want to discuss topics related to the project, the Discord community is welcoming!
