@@ -17,7 +17,7 @@ through iterative learning. This learning process is influenced by their operati
 reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills
 in what we refer to as a "runtime", synonymous with LLM.
 
-![Training Agent Skill](./Docs/img/training-agents-skill.png "Training Agent Skill")
+![Training Agent Skill](./Docs/training-agents-skill.png "Training Agent Skill")
 
 <!-- Offered as an HTTP server, users can interact with Adala via command line or RESTful API, and directly integrate its features in Python Notebooks or scripts. The self-learning mechanism leverages Large Language Models (LLMs) from providers like OpenAI and VertexAI. -->
 
@@ -268,7 +268,7 @@ print(predictions)
 | [OntologyCreator](./examples/ontology_creator.ipynb)                         | Infer ontology from a set of text examples.                                       | <a target="_blank" href="https://colab.research.google.com/github/HumanSignal/Adala/blob/master/examples/ontology_creator.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>              |
 | [Math reasoning](./examples/gsm8k_test.ipynb)                                 | Solve grade-school math problems on GSM8k dataset.                                | <a target="_blank" href="https://colab.research.google.com/github/HumanSignal/Adala/blob/master/examples/gsm8k_test.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>                    |
 
-![Executing Agent Skill](./docs/src/img/executing-agents-skill.png "Executing Agent Skill")
+![Executing Agent Skill](./Docs/executing-agents-skill.png "Executing Agent Skill")
 
 <!-- 
 ## 📒 More notebooks
