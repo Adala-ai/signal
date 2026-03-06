@@ -388,7 +388,7 @@ adala help <command>
 
 ## 🗺 Roadmap
 - [x] Low-level skill management (i.e. agent.get_skill("name")) [COMPLETE @niklub]
-- [x] Deploy main agent token with thirdy-party [FLAUNCH](https://flaunch.gg)
+- [x] Deploy main agent token with thirdy-party [BAGS](https://bags.fm/$ADALA_SIGNAL)
 - [ ] Make every notebook example to run in Google Collab and add a badge into README
 - [ ] Extend environment with one more example
 - [ ] Multi-task learning (learn multiple skills at once)
